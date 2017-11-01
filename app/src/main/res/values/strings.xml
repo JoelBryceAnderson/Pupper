@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Puppr</string>
+    <string name="subtitle">Created by Joel Anderson</string>
+
+    <string name="share_pupper">Share pupper…</string>
+
+    <string name="good_boy">Good Boy! \uD83D\uDC36</string>
+    <string name="down_boy">Down Boy! \uD83D\uDC6E</string>
+
+    <string name="error_loading_text">An error occurred while loading your pupper.</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id_production">ca-app-pub-1140621218981804/5663605179</string>
+</resources>
